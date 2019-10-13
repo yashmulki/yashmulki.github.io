@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Hello
 ---
 
 I'm Yash, a 16 year old programmer & social entrepreneur interested in mobilizing tech to combat issues. I primarily code in Swift (for making iOS apps) but am also interested in Quantum Computing and Machine Learning.
