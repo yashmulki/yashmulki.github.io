@@ -66,7 +66,7 @@ I'm Yash, a 16 year old programmer & social entrepreneur interested in mobilizin
     <td class="tg-w1my">Votisor</td>
     <td class="tg-w1my"><a href="http://yashmulki.me/votisor">Website</a></td>
     <td class="tg-w1my">An app for the 2019 Canadian Federal Election</td>
-    <td class="tg-w1my"><a href="https://github.com/yashmulki/votisor-iOS/settings/toggle_permission">Github</a></td>
+    <td class="tg-w1my"><a href="https://github.com/yashmulki/votisor-iOS/">Github</a></td>
   </tr>
   <tr>
     <td class="tg-0j0p">Canada Votes</td>
