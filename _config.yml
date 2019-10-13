@@ -1,0 +1,12 @@
+title:        Yash Mulki 
+tagline:      'Yash Mulki'
+description:  'Programmer, Social Entrepreneur'
+url:          http://andhyde.com
+version:      1.0
+author:
+  name:       'Yash Mulki'
+  email:      'yash.mulki@outlook.com'
+markdown:     kramdown
+permalink:    pretty
+pygments:     true
+paginate:     5

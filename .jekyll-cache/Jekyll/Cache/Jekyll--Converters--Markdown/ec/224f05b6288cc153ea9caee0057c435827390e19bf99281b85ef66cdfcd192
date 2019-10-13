@@ -1,0 +1,48 @@
+I"^<h2 id="hello">Hello</h2>
+
+<p>I’m Yash, a 16 year old programmer &amp; social entrepreneur interested in mobilizing tech to combat issues. I primarily code in Swift (for making iOS apps) but am also interested in Quantum Computing and Machine Learning.</p>
+
+<h2 id="completed-projects">Completed Projects</h2>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:11px 14px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:11px 14px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-vfn0{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-wkkj{font-weight:bold;background-color:#efefef;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+
+<table class="tg">
+  <tr>
+    <th class="tg-vfn0"><span style="font-weight:bold">Project</span><br /></th>
+    <th class="tg-wkkj">Link</th>
+    <th class="tg-vfn0"><span style="font-weight:bold">Description</span><br /></th>
+    <th class="tg-vfn0"><span style="font-weight:bold">Code (Github)</span><br /></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Votisor</td>
+    <td class="tg-0lax">yashmulki.me/votisor</td>
+    <td class="tg-0lax">An app for the 2019 Canadian Federal Election</td>
+    <td class="tg-0lax"><a href="https://github.com/yashmulki/votisor-iOS/settings/toggle_permission">yashmulki/Votisor</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Canada Votes</td>
+    <td class="tg-0lax"><br /><br /><br /></td>
+    <td class="tg-0lax">Keeping voters informed for Canadian <br />Provincial &amp; Federal Elections</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</table>
+:ET
