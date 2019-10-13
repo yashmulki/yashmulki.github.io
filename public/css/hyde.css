@@ -558,7 +558,14 @@ a:focus {
   font-size: 16px;
   margin: 4px 2px;
   border-radius: 15px;
+  cursor: pointer;
+  
 }
+
+.button:hover {
+  background-color: #598ea4;
+}
+
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
