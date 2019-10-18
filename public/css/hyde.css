@@ -567,16 +567,14 @@ a:focus {
 }
 
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
+.letterlist li {
+  padding: 10px;
+     /* or */ 
+  display: inline-block;
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+  margin: 20px 0;
+}
+.letterlist ul {
+  margin: 0; padding: 0; 
+   list-style-type: none; list-style-image: none;
 }
