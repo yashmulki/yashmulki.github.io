@@ -7,6 +7,9 @@ I'm Yash, a 16 year old programmer & social entrepreneur interested in mobilizin
 
 <button class="button button1" onclick="window.location.href = '/resume-ym.pdf';">Take a look at my resumé</button>
 
+## Smyle
+Smyle is my latest project– a step forward in real-world payments. Take a look <a target="_blank" href="/smyle">here</a>
+
 ## Press Coverage
   <ul class="letterlist">   
    <li>
