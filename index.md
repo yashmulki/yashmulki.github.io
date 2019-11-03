@@ -3,7 +3,7 @@ layout: page
 title: Hello
 ---
 
-I'm Yash, a 16 year old programmer & social entrepreneur interested in mobilizing tech to combat issues. I primarily code in Swift (for making iOS apps) but am also interested in Quantum Computing and Machine Learning.
+I'm Yash, a 16 year old programmer & social entrepreneur interested in mobilizing tech to combat social issues. I primarily code in Swift (for making iOS apps) but am also interested in Quantum Computing and Machine Learning.
 
 <button class="button button1" onclick="window.location.href = '/resume-ym.pdf';">Take a look at my resumé</button>
 
