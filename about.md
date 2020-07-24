@@ -6,7 +6,11 @@ excerpt:  I'm a software Engineering Student at the University of Waterloo
 comments: false
 ---
 
-I'm Yash, a 17 year old software engineer and a <a href="https://www.schulichleaders.com">Schulich Scholar</a> at the University of Waterloo. 
+I'm Yash, a 17 year old software engineer and a <a href="https://www.schulichleaders.com">Schulich Scholar</a> at the University of Waterloo. I'm fascinated by the emerging field of Quantum Computing, and have been working on a Quantum Circuit Simulator that is capable of running elementary quantum algorithms. 
+
+I'm also interested in machine learning (and particularly deep learning) and its potential to transform the world through applications in automation, logistics and predictive modelling. 
+
+I believe that technology's immense power and potential will play a key role in tackling the many complex issues our society faces. I've worked to apply my skills in iOS and Flutter mobile development to create Votisor and Canada Votes, apps aimed at increasing voter engagement in the political process through the provision of key electoral information. 
 
 ## Press Coverage
 Here's a few articles covering me and my projects over the years
