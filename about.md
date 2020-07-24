@@ -1,24 +1,66 @@
 ---
+title: Yashvardhan Mulki
+permalink: /about/
 layout: page
-title: About
+excerpt:  I'm a software Engineering Student at the University of Waterloo
+comments: false
 ---
 
-<p class="message">
-  Hey there! This page is included in Hyde as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm Yash, a 17 year old software engineer and a <a href="https://www.schulichleaders.com">Schulich Scholar</a> at the University of Waterloo. 
 
-[Hyde](http://mdo.github.io/hyde) is a [Jekyll](http://jekyllrb.com) theme, designed and built by [@mdo](https://twitter.com/mdo). It's an elegant, open source, and mobile first theme for quickly getting a static site up and running.
+## Press Coverage
+Here's a few articles covering me and my projects over the years
 
-## Setup
+<a href="https://www.imore.com/student-and-ceo-swift-rise-wwdc-prodigy">iMore: Student and the CEO: The Swift rise of a WWDC prodigy</a> <br>
+<a href="https://www.cbc.ca/kidsnews/post/teen-develops-voting-app-even-though-he-cant-vote">Teen develops voting app even though he can’t vote
+</a> <br>
+<a href="https://www.insidehalton.com/news-story/8613836-oakville-youth-who-can-t-vote-develops-app-to-fight-low-voter-turnout/">Oakville youth who can't vote develops app to fight low voter turnout!</a> <br>
+<a href="https://www.youtube.com/watch?v=PslgJHgkTSs&t=21s">TV Interview: Selected Canadian students attend Apple Developers Conference</a> <br>
+<a href="https://www.bttoronto.ca/videos/young-canadian-creates-app-to-engage-voter-interest/">TV Interview: Young Canadian creates app to engage voter interest</a> <br>
+<a href="https://dailyhive.com/vancouver/canadian-students-receive-scholarships-from-apple">These 11 Canadian students just received prestigious scholarships from Apple
+</a> <br>
 
-Some fun facts about the setup of this project include:
+## Released Projects
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Fonts PT Sans (headings) and PT Serif (body), and are served by [Google Web Fonts](http://www.google.com/webfonts)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:11px 14px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:11px 14px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;;}
+.tg .tg-z2q5{font-size:14px;font-family:Arial, Helvetica, sans-serif !important;text-align:left;vertical-align:top}
+.tg .tg-w57g{font-weight:bold;font-size:14px;font-family:Arial, Helvetica, sans-serif !important;border-color:#656565;text-align:left;vertical-align:top}
+.tg .tg-w1my{;font-size:14px;font-family:Arial, Helvetica, sans-serif !important;border-color:#656565;text-align:left;vertical-align:top}
+.tg .tg-0j0p{font-size:14px;font-family:Arial, Helvetica, sans-serif !important;border-color:#656565;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-z2q5"><span style="font-weight:bold">Project</span><br></th>
+    <th class="tg-w57g">Link</th>
+    <th class="tg-z2q5"><span style="font-weight:bold">Description</span><br></th>
+    <th class="tg-z2q5"><span style="font-weight:bold">Code</span><br></th>
+  </tr>
+  <tr>
+    <td class="tg-w1my">Votisor</td>
+    <td class="tg-w1my"><a href="http://yashmulki.me/votisor">Website</a></td>
+    <td class="tg-w1my">An app for the 2019 Canadian Federal Election</td>
+    <td class="tg-w1my"><a href="https://github.com/yashmulki/votisor-iOS/">Github</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0j0p">Canada Votes</td>
+    <td class="tg-0j0p"><a href="https://apps.apple.com/ca/app/canada-votes/id1379865455">iOS</a> <a href="https://play.google.com/store/apps/details?id=com.yashmulki.canadavotes&hl=en_CA">Android</a></td>
+    <td class="tg-0j0p">Keeping voters informed for Canadian <br>Provincial &amp; Federal Elections</td>
+    <td class="tg-0j0p">N/A</td>
+  </tr>
+  <tr>
+    <td class="tg-w1my">TestPlanner</td>
+    <td class="tg-w1my"><a href="https://apps.apple.com/us/app/testplanner/id1446658473">iOS</a></td>
+    <td class="tg-w1my">A standardized test prep assistant</td>
+    <td class="tg-w1my">N/A</td>
+  </tr>
+  <tr>
+    <td class="tg-0j0p">Scoretrak</td>
+    <td class="tg-0j0p"><a href="https://apps.apple.com/gy/app/scoretrak-free/id1188832066">iOS</a></td>
+    <td class="tg-0j0p">An app to track scores in games</td>
+    <td class="tg-0j0p">N/A</td>
+  </tr>
+</table>
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/mdo/hyde/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
