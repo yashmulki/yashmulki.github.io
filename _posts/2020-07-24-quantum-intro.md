@@ -2,7 +2,7 @@
 title: An Introduction to Quantum Computing
 date: 2020-07-24 11:58:47 +07:00
 modified: 2020-07-24 11:58:47 +07:00
-tags: [quantum, Deutsch, quantum-computing]
+tags: [Quantum Computing, Physics, Computer Science]
 description: An introduction to Quantum Computing and a walkthrough of Deutsch's algorithm
 ---
 
