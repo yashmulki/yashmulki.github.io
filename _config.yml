@@ -12,8 +12,12 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Yashvardhan Mulki # author name
   bio: >- # tell to the world
-    Software Engineering Student, Quantum Computing & ML Enthusiast. 4 Time Apple WWDC Scholar.
-    Check out my projects <a href="https://github.com/yashmulki" target="_blank" rel="noopener">@github</a>.
+    University of Waterloo Software Engineering '25, Schulich Leader Scholar, Incoming SWE Intern at Apple.
+
+
+
+
+    
   username: yashmulki # author username
   github: yashmulki
   twitter: ysmulki
