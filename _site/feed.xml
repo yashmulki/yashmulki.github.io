@@ -1,37 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2021-01-25T14:39:21-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Yashvardhan Mulki</title><subtitle>My personal website and blog.</subtitle><author><name>Yashvardhan Mulki</name><email>yashvardhan.mulki@gmail.com</email></author><entry><title type="html">2020 Reading Summary</title><link href="http://localhost:4000/2020-Reading-List/" rel="alternate" type="text/html" title="2020 Reading Summary" /><published>2021-01-05T23:58:47-05:00</published><updated>2021-01-05T23:58:47-05:00</updated><id>http://localhost:4000/2020-Reading-List</id><content type="html" xml:base="http://localhost:4000/2020-Reading-List/">Empire: The Rise and Demise of the British World Order and the Lessons for Global Power (Ferguson)
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-05-30T11:58:51-04:00</updated><id>/feed.xml</id><title type="html">Yash Mulki</title><subtitle>soft eng @ uwaterloo, swe intern @ apple</subtitle><entry><title type="html">Generative Adversarial Networks</title><link href="/ml/papers/2021/05/29/generative-adversarial-networks.html" rel="alternate" type="text/html" title="Generative Adversarial Networks" /><published>2021-05-29T08:13:33-04:00</published><updated>2021-05-29T08:13:33-04:00</updated><id>/ml/papers/2021/05/29/generative-adversarial-networks</id><content type="html" xml:base="/ml/papers/2021/05/29/generative-adversarial-networks.html">&lt;p&gt;A deep dive into GANs going step by step through the &lt;a href=&quot;https://arxiv.org/pdf/1406.2661.pdf&quot;&gt;paper&lt;/a&gt;.
+We’ll also explore how to implement this paper in python using the PyTorch framework&lt;/p&gt;</content><author><name></name></author><category term="ml" /><category term="papers" /><summary type="html">A deep dive into GANs going step by step through the paper. We’ll also explore how to implement this paper in python using the PyTorch framework</summary></entry><entry><title type="html">Merge K Sorted Lists</title><link href="/problems/2021/05/29/merge-k-sorted-lists.html" rel="alternate" type="text/html" title="Merge K Sorted Lists" /><published>2021-05-29T08:13:33-04:00</published><updated>2021-05-29T08:13:33-04:00</updated><id>/problems/2021/05/29/merge-k-sorted-lists</id><content type="html" xml:base="/problems/2021/05/29/merge-k-sorted-lists.html">&lt;h3 id=&quot;problem-overview&quot;&gt;Problem Overview&lt;/h3&gt;
 
-Washington: A Life (Chernow)
+&lt;p&gt;An interesting leetcode problem. &lt;a href=&quot;https://leetcode.com/problems/merge-k-sorted-lists/&quot;&gt;(link)&lt;/a&gt;&lt;/p&gt;
 
-Dark Sun: The Making of the Hydrogen Bomb (Rhodes)
+&lt;blockquote&gt;
+  &lt;p&gt;You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.
+Merge all the linked-lists into one sorted linked-list and return it.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-The Making of the Atomic Bomb (Rhodes)
+&lt;p&gt;Constraints and examples available in the linked page&lt;/p&gt;
 
-Get Smarter (Schulich)
+&lt;h3 id=&quot;thought-process&quot;&gt;Thought Process&lt;/h3&gt;
 
-The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance (Chernow)
+&lt;h3 id=&quot;code-implementation&quot;&gt;Code Implementation&lt;/h3&gt;
 
-The Black Swan: The Impact of the Highly Improbable (Taleb)
+&lt;h3 id=&quot;runtime-analysis&quot;&gt;Runtime Analysis&lt;/h3&gt;
 
-Gold: Inside the Race for the World's Most Seductive Metal (Hart)
-
-The Secret Club That Runs the World: Inside the Fraternity of Commodity Traders (Kelly)
-
-Liar's Poker: Rising through the Wreckage on Wall Street (Lewis) 
-
-The Intelligence Trap (Robson)
-
-The Origins of Political Order: From Prehuman times to the French Revolution (Fukuyama)
-
-Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty (Banerjee and Duflo)
-
-The New New Thing: A Silicon Valley Story (Lewis)
-
-Quantum Computing for Computer Scientists (Manucci and Yanofsky)
-
-The Gene: An Intimate History (Mukherjee)
-
-Zero to One (Thiel and Masters)
-
-The Idea Factory: Bell Labs and the Great Age of American Innovation (Gertner)
-
-The Future Is Asian: Global Order in the Twenty-first Century (Khanna)</content><author><name>Yashvardhan Mulki</name><email>yashvardhan.mulki@gmail.com</email></author><category term="Books" /><summary type="html">Empire: The Rise and Demise of the British World Order and the Lessons for Global Power (Ferguson)</summary></entry></feed>
+&lt;h3 id=&quot;learnings&quot;&gt;Learnings&lt;/h3&gt;</content><author><name></name></author><category term="problems" /><summary type="html">Problem Overview</summary></entry></feed>
