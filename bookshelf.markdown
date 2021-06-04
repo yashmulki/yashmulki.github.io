@@ -7,8 +7,11 @@ title: Bookshelf
 permalink: /bookshelf/
 ---
 
-### 2021
+Coming soon...
 
+<!-- ### 2021 -->
+
+<!-- 
 <a href="https://www.amazon.com/Moralist-Woodrow-Wilson-World-Made/dp/0743298101/ref=sr_1_1?dchild=1&keywords=the+moralist&qid=1622336515&sr=8-1">The Moralist: Woodrow Wilson and the World he Made</a>: An oft maligned historical figure, Woodrow Wilson is a man of many contradictions. Both a fierce moralist who fought the great trusts that dominated American business, and the man who resegregated the civil service, Wilson is revealed to be ___. This fascinating read by Kidder explores the rise of Wilson and his attempts to shape the United States & the world with a decidedly more ambitious  
 
 <a href="https://www.amazon.com/Peace-End-All-Ottoman-Creation/dp/0805088091/ref=sr_1_1?dchild=1&keywords=a+peace+to+end+all+peace&qid=1622336422&sr=8-1">
@@ -169,4 +172,4 @@ minicomputer at the Data General Corporation has much in common with today's ...
 <a href="https://www.amazon.com/Soul-New-Machine-Tracy-Kidder-ebook/dp/B005HG4W9W/ref=sr
 _1_1?dchild=1&keywords=the+soul+of+a+new+machine&qid=1622341422&sr=8-1">The Dictator's Handbook</a>
 Despite taking place in the early 1970s, this account of the frentic development of a new
-minicomputer at the Data General Corporation has much in common with today's ....
+minicomputer at the Data General Corporation has much in common with today's .... -->
